@@ -1,4 +1,4 @@
-# Submission-NetworkingDicoding
+# Submission - Belajar Jaringan Komputer Untuk Pemula
 
 edit konfigurasi di terminal linux :
 - user root "sudo"
