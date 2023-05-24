@@ -1,4 +1,4 @@
-# Submission - Belajar Jaringan Komputer Untuk Pemula
+# Submission - Belajar Jaringan Komputer Untuk Pemula Dicoding
 
 edit konfigurasi di terminal linux :
 - user root "sudo"
